@@ -1,0 +1,13 @@
+algoritmo,n,resultado
+memoized_fibo,4,3
+memoized_fibo,8,21
+memoized_fibo,16,987
+memoized_fibo,32,2178309
+fibo,4,3
+fibo,8,21
+fibo,16,987
+fibo,32,2178309
+FIBO,4,3
+FIBO,8,21
+FIBO,16,987
+FIBO,32,2178309
